@@ -1,2 +1,2 @@
 ﻿面试失败主要原因是自己对项目不太熟，需要非常熟悉项目才行！fighting for future
-111   1112
+111   1112    git commit  --amend 使用新的commit替换原来的commit
